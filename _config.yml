@@ -1,0 +1,28 @@
+name: cafe40malaga
+favicon: null
+layout_spectrum: 0.8205975827295333
+typography_spectrum: 0.7477862439118326
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.270512159448117
+  lightness: 0.19775857753120363
+  saturation: 0.6325644317548722
+  rhythmicContrast: 0.6979420948773623
+purpose: []
