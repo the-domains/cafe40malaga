@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T20:26:33.585Z'
-dateModified: '2016-02-21T20:26:22.841Z'
+datePublished: '2016-02-21T20:32:54.822Z'
+dateModified: '2016-02-21T20:32:14.561Z'
 title: All day café
 author: []
 sourcePath: _posts/2016-02-21-all-day-cafe.md
@@ -22,8 +22,6 @@ url: all-day-cafe/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19e69e45-e41b-4a65-b6f4-b74568eeb04b.jpg)
-
 We are an all day café offering breakfast, meals and snacking. 
 
 At Café 40 we love our food and that's why we focus on product quality. All our
@@ -32,4 +30,4 @@ delicious coffee and dishes!
 
 Our café is cosy, our staff is helpful and our prices meet every budget.
 
-� ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dea57e1d-049b-45f5-83a3-fdf31e838e8a.jpg)
+� ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a448da38-3ea4-4912-8d2e-b6bf3fd2f05c.jpg)
