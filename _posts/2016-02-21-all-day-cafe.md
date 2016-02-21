@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T20:19:11.409Z'
-dateModified: '2016-02-21T20:16:06.404Z'
+datePublished: '2016-02-21T20:26:33.585Z'
+dateModified: '2016-02-21T20:26:22.841Z'
 title: All day café
 author: []
 sourcePath: _posts/2016-02-21-all-day-cafe.md
@@ -32,4 +32,4 @@ delicious coffee and dishes!
 
 Our café is cosy, our staff is helpful and our prices meet every budget.
 
-�
+� ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dea57e1d-049b-45f5-83a3-fdf31e838e8a.jpg)
