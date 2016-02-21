@@ -1,4 +1,4 @@
-name: cafe40malaga
+name: Café 40
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.7477862439118326
@@ -22,7 +22,7 @@ color:
     - '#864330'
     - '#be8234'
     - '#ddce89'
-  brandStrength: 0.625
+  brandStrength: 0.3125
   lightness: 0.19775857753120363
   saturation: 0.6325644317548722
   rhythmicContrast: 0.6979420948773623
